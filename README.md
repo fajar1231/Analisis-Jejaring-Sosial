@@ -19,6 +19,10 @@
 - **Node:** anggota organisasi `(A, B, C, D, E)`
 - **Edge:** hubungan komunikasi antar anggota.
 
+## Visualisasi Graf
+
+![Graf Jejaring](graf.jpg)
+
 ## Hubungan Antar Anggota
 
 - A-B
